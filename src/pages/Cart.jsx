@@ -68,8 +68,8 @@ const Table = styled.table`
 
     td, th {
       padding: 8px 5px;
-      font-weight: 100;
-      font-size: xx-small;
+      font-weight: 200;
+      font-size: small;
     }
 
     img {
