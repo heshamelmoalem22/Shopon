@@ -48,6 +48,17 @@ const Hero = styled.section`
       background-position: center;
     }
   }
+  @media (max-width: 400px) {
+    height: 20vh;  
+    margin-bottom: 0;
+    border-radius: 0cap;
+
+    .bg {
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: center;
+    }
+  }
 `;
 
 
